@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	hashSize    = 32
+	hashSize    = 66
 	versionSize = 40
 )
 
